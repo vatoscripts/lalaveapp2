@@ -22,7 +22,7 @@ spec:
           path: /source
       containers:
       - name: php
-        image: kiyange26773/sourceapp2:latest
+        image: kiyange26773/sourceapp3:latest
         volumeMounts:
         - name: dir
           mountPath: /source
